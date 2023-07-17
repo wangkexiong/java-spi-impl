@@ -1,0 +1,11 @@
+
+subprojects {
+  ext {
+    teamName = 'tk.wangkexiong'
+    siteUrl = 'http://wangkexiong.eu.org'
+  }
+
+  repositories {
+    mavenCentral()
+  }
+}
